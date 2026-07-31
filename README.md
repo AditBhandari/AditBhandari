@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Klasse
+- 👋 Hi, I’m @adit
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
 
